@@ -287,4 +287,40 @@
     "discordId": "",
     "userIcon": ""
   },
+   {
+    "name": "synaptic",
+    "allyCode": "728261996",
+    "discordId": "",
+    "userIcon": ""
+  },
+     {
+    "name": "rabidsquid",
+    "allyCode": "956684945",
+    "discordId": "",
+    "userIcon": ""
+  },
+       {
+    "name": "leroy jenkins",
+    "allyCode": "999553963",
+    "discordId": "",
+    "userIcon": ""
+  },
+  {
+    "name": "murdomur",
+    "allyCode": "258529937",
+    "discordId": "",
+    "userIcon": ""
+  },
+    {
+    "name": "mnine",
+    "allyCode": "746132466",
+    "discordId": "",
+    "userIcon": ""
+  },
+   {
+    "name": "solverk",
+    "allyCode": "234488172",
+    "discordId": "",
+    "userIcon": ""
+  },
 ]
