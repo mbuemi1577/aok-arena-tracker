@@ -45,7 +45,7 @@
     "name": "Crono",
     "allyCode": "724852884",
     "discordId": "",
-    "userIcon": ""
+    "userIcon": ":eye:"
   },
   {
     "name": "MiniMoff",
@@ -81,7 +81,7 @@
     "name": "DarthRomarius",
     "allyCode": "683628649",
     "discordId": "",
-    "userIcon": ":fire:"
+    "userIcon": ""
   },
   {
     "name": "ForcedJr",
@@ -93,7 +93,7 @@
     "name": "xSwatch",
     "allyCode": "613182986",
     "discordId": "",
-    "userIcon": ":fire:"
+    "userIcon": ""
   },
   {
     "name": "Nas",
@@ -135,7 +135,7 @@
     "name": "100in",
     "allyCode": "194929453",
     "discordId": "",
-    "userIcon": ":fire:"
+    "userIcon": ""
   },
   {
     "name": "omw2fyb",
@@ -195,7 +195,7 @@
     "name": "tavie won konobi",
     "allyCode": "651857134",
     "discordId": "",
-    "userIcon": ":fire:"
+    "userIcon": ""
   },
   {
     "name": "grndmsterEriticus",
@@ -285,7 +285,7 @@
     "name": "jacobmichael",
     "allyCode": "861296929",
     "discordId": "",
-    "userIcon": ""
+    "userIcon": ":monkey:"
   },
    {
     "name": "synaptic",
@@ -340,5 +340,11 @@
     "allyCode": "779466236",
     "discordId": "",
     "userIcon": ""
+  },
+   {
+    "name": "ScoobeyDoo",
+    "allyCode": "382282716",
+    "discordId": "",
+    "userIcon": ":dog:"
   },
 ]
