@@ -95,9 +95,27 @@
     "discordId": "",
     "userIcon": ""
   },
-       {
+    {
     "name": "valentine",
     "allyCode": "573-384-984",
+    "discordId": "",
+    "userIcon": ""
+  },
+   {
+    "name": "toonaroundbrighteyes",
+    "allyCode": "361369191",
+    "discordId": "",
+    "userIcon": ":fire:
+  },
+      {
+    "name": "knolle",
+    "allyCode": "519423157",
+    "discordId": "",
+    "userIcon": ""
+  },
+        {
+    "name": "vasco",
+    "allyCode": "793382859",
     "discordId": "",
     "userIcon": ""
   },
